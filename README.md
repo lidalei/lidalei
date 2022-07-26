@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hi there, I'm Dalei 👋
+
+- 🔭 I'm passionate about dveloping data-intensive applications.
+- ⚡ Fun fact: I like starring GitHub repositories. Feel free to check them out!
+- 🧑‍💻 Contributions
+  - Add BigQuery support (mentioned in a [blog post](https://www.acagroup.be/en/blog/bigquery-support-flyway-dataflow-integration/) by Jan Eerdekens): https://github.com/flyway/flyway/pull/3183
+  - Add direct bytes support to FixedString type: https://github.com/mymarilyn/clickhouse-driver/pull/26
+  - Fix unique_everseen when key is None: https://github.com/davidadamojr/TextRank/pull/18
+  - Make the post-processing code clearer: https://github.com/davidadamojr/TextRank/pull/19
+  - Optimize volume normalization: https://github.com/CorentinJ/Real-Time-Voice-Cloning/pull/104
 
 <!--
 **lidalei/lidalei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
